@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@500&family=Inter:wght@400;500;600;700&display=swap');
+/* font-family: 'Inter', sans-serif; */
+
+.header {
+    background: #043873;
+    height: 92px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.logo {
+    font-family: 'Inter', sans-serif;
+    color: white;
+    font-weight: 700px;
+    font-style: bold;
+    font-size: 16px;
+    display: flex;
+    column-gap: 10px;
+}
+
+.navegacao {
+    font-family: 'DM Sans', sans-serif;
+    width: 500px;
+    font-size: 16px;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
